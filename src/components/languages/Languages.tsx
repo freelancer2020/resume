@@ -1,20 +1,15 @@
 import { Stack, Typography, Paper } from "@mui/material";
 import { styled } from "@mui/system";
-import {
-  MailOutline,
-  PhoneAndroid,
-  LinkedIn,
-  Place,
-} from "@mui/icons-material";
+import { Language } from "@mui/icons-material";
 
-const ContactContainer = styled(Paper)(() => ({
+const LanguagesContainer = styled(Paper)(() => ({
   width: "25rem",
   hegiht: "10rem",
   background: "linear-gradient(to right, #3f4c6b, #606c88)",
   borderRadius: "5px",
 }));
 
-const HeaderContact = styled(Typography)(() => ({
+const LanguagesHeader = styled(Typography)(() => ({
   color: "#fff",
   "&:before": {
     content: '""',
@@ -36,35 +31,30 @@ const Typo = styled(Typography)(() => ({
   alignItems: "center",
 }));
 
-const Contact: React.FC = () => {
+const Languages: React.FC = () => {
   return (
-    <ContactContainer elevation={6}>
+    <LanguagesContainer elevation={6}>
       <Stack spacing={2} padding={2} sx={{position: "relative"}}>
-        <HeaderContact variant="h4" sx={{ color: "#fff" }}>
-          Contact
-        </HeaderContact>
+        <LanguagesHeader variant="h4" sx={{ color: "#fff" }}>
+          Languages
+        </LanguagesHeader>
       </Stack>
 
       <Stack spacing={2} padding={2}>
         <Typo variant="body2">
           {" "}
-          <PhoneAndroid sx={{ marginRight: ".5rem" }} /> +48 786 110 486
+          <Language sx={{ marginRight: ".5rem" }} /> English
         </Typo>
         <Typo variant="body2">
-          <MailOutline sx={{ marginRight: ".5rem" }} />{" "}
-          mustafa.husseiny@gmail.com
+          <Language sx={{ marginRight: ".5rem" }} /> Arabic
         </Typo>
         <Typo variant="body2">
-          <LinkedIn sx={{ marginRight: ".5rem" }} />
-          https://www.linkedin.com/in/mostafa-m-33189270/
-        </Typo>
-        <Typo variant="body2">
-          <Place sx={{ marginRight: ".5rem" }} />
-          Warsaw, Poland
+          <Language sx={{ marginRight: ".5rem" }} />
+          Polish
         </Typo>
       </Stack>
-    </ContactContainer>
+    </LanguagesContainer>
   );
 };
 
-export default Contact;
+export default Languages;
