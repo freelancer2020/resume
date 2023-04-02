@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/resume/static/css/main.8297f4ff.css",
-    "main.js": "/resume/static/js/main.139402d5.js",
+    "main.js": "/resume/static/js/main.22d2d071.js",
     "static/js/787.7c4fc8d6.chunk.js": "/resume/static/js/787.7c4fc8d6.chunk.js",
     "static/media/OverpassMono-SemiBold.ttf": "/resume/static/media/OverpassMono-SemiBold.f20c8daafc3a6f26334d.ttf",
     "static/media/OverpassMono-Bold.ttf": "/resume/static/media/OverpassMono-Bold.9b086279a5cfd96b2dbb.ttf",
     "static/media/timo.jpg": "/resume/static/media/timo.7cf1a2999500719b4551.jpg",
     "index.html": "/resume/index.html",
     "main.8297f4ff.css.map": "/resume/static/css/main.8297f4ff.css.map",
-    "main.139402d5.js.map": "/resume/static/js/main.139402d5.js.map",
+    "main.22d2d071.js.map": "/resume/static/js/main.22d2d071.js.map",
     "787.7c4fc8d6.chunk.js.map": "/resume/static/js/787.7c4fc8d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8297f4ff.css",
-    "static/js/main.139402d5.js"
+    "static/js/main.22d2d071.js"
   ]
 }
