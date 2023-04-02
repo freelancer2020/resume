@@ -37,6 +37,7 @@ const Typo = styled(Typography)(() => ({
 const Container = styled(Stack)(() => ({
   display: "flex",
   flexWrap: "wrap",
+  justifyContent: "start"
 }));
 
 const Skills: React.FC = () => {

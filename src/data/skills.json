@@ -29,24 +29,112 @@
     "content": "",
     "category": "Programming"
   },
-  { "name": "", "media": "", "content": "", "category": "" },
-  { "name": "", "media": "", "content": "", "category": "" },
-  { "name": "", "media": "", "content": "", "category": "" },
-  { "name": "", "media": "", "content": "", "category": "" },
-  { "name": "", "media": "", "content": "", "category": "" },
-  { "name": "", "media": "", "content": "", "category": "" },
-  { "name": "", "media": "", "content": "", "category": "" },
-  { "name": "", "media": "", "content": "", "category": "" },
-  { "name": "", "media": "", "content": "", "category": "" },
-  { "name": "", "media": "", "content": "", "category": "" },
-  { "name": "", "media": "", "content": "", "category": "" },
-  { "name": "", "media": "", "content": "", "category": "" },
-  { "name": "", "media": "", "content": "", "category": "" },
-  { "name": "", "media": "", "content": "", "category": "" },
-  { "name": "", "media": "", "content": "", "category": "" },
-  { "name": "", "media": "", "content": "", "category": "" },
-  { "name": "", "media": "", "content": "", "category": "" },
-  { "name": "", "media": "", "content": "", "category": "" },
-  { "name": "", "media": "", "content": "", "category": "" },
-  { "name": "", "media": "", "content": "", "category": "" }
+  {
+    "name": "ReactJS",
+    "media": "https://repository-images.githubusercontent.com/410214337/070f2aba-d9d6-4699-b887-9a0f29015b1b",
+    "content": "",
+    "category": ""
+  },
+  {
+    "name": "React Redux",
+    "media": "https://daqxzxzy8xq3u.cloudfront.net/wp-content/uploads/2019/04/21032431/redux-cover-imgage-1024x768.jpg",
+    "content": "",
+    "category": ""
+  },
+  {
+    "name": "Redux ToolKit",
+    "media": "https://daqxzxzy8xq3u.cloudfront.net/wp-content/uploads/2019/04/21032431/redux-cover-imgage-1024x768.jpg",
+    "content": "",
+    "category": ""
+  },
+  {
+    "name": "MUI",
+    "media": "https://mui.com/static/logo.png",
+    "content": "",
+    "category": ""
+  },
+  {
+    "name": "NodeJS",
+    "media": "https://res.cloudinary.com/practicaldev/image/fetch/s--e_rqeB7o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2400/1%2AFPtQLT2Zk-baHficCz_mXQ.png",
+    "content": "",
+    "category": ""
+  },
+  {
+    "name": "Express",
+    "media": "https://miro.medium.com/v2/resize:fit:805/0*m1VOQP0FtcQufLgw.png",
+    "content": "",
+    "category": ""
+  },
+  {
+    "name": "GraphQL",
+    "media": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png",
+    "content": "",
+    "category": ""
+  },
+  {
+    "name": "React Router ",
+    "media": "https://www.loginradius.com/blog/static/a53096b6796dd3d1e3f3df8bc77a6689/03979/index.png",
+    "content": "",
+    "category": ""
+  },
+  {
+    "name": "React Testing",
+    "media": "https://diogorodrigues.dev/assets/img/blog/automating-ui-tests-with-jest-and-react-testing-library.jpg",
+    "content": "",
+    "category": ""
+  },
+  {
+    "name": "Cypress",
+    "media": "https://www.cypress.io/cypress_logo_social.png",
+    "content": "",
+    "category": ""
+  },
+  {
+    "name": "DynmoDB",
+    "media": "https://coderdiaries.com/wp-content/uploads/2019/09/amazon-dynamodb-logo.png",
+    "content": "",
+    "category": ""
+  },
+  {
+    "name": "MangoDB",
+    "media": "https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png",
+    "content": "",
+    "category": ""
+  },
+  {
+    "name": "PostgreSQL",
+    "media": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png",
+    "content": "",
+    "category": ""
+  },
+  {
+    "name": "Azure",
+    "media": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png",
+    "content": "",
+    "category": ""
+  },
+  {
+    "name": "AWS",
+    "media": "https://assets.intersystems.com/dims4/default/a9dad27/2147483647/strip/true/crop/780x422+0+0/resize/780x422!/quality/90/?url=http%3A%2F%2Finter-systems-brightspot.s3.amazonaws.com%2F26%2Fbd%2F6a6aa762425f87ad7d5c2fe65f8c%2Fawslogo-image.jpg",
+    "content": "",
+    "category": ""
+  },
+  {
+    "name": "Git",
+    "media": "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
+    "content": "",
+    "category": ""
+  },
+  {
+    "name": "Agile Scrum",
+    "media": "https://www.pm-partners.com.au/wp-content/uploads/2021/06/blog-scrum-process-opt.jpg",
+    "content": "",
+    "category": ""
+  },
+  {
+    "name": "Jira",
+    "media": "https://jira.wmi.amu.edu.pl/images/atlassian-jira-logo-large.png",
+    "content": "",
+    "category": ""
+  }
 ]
