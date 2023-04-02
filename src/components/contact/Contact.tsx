@@ -4,8 +4,7 @@ import {
   MailOutline,
   PhoneAndroid,
   LinkedIn,
-  Public,
-  Place
+  Place,
 } from "@mui/icons-material";
 
 const ContactContainer = styled(Paper)(() => ({

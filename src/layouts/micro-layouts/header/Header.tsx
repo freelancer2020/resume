@@ -55,7 +55,7 @@ const Header: React.FC = () => {
       <Bio>
         <Typography
           variant="body1"
-          sx={{ color: "#fff", fontFamily: "Mono Semi" }}
+          sx={{ color: "#fff" }}
         >
           Innovative, creative and skilled Front-End developer, possess a tech
           degree in Front-End Development and have 5 years of experience of
@@ -70,7 +70,7 @@ const Header: React.FC = () => {
         <Typography
           variant="body1"
           children="Mostafa Mohamed"
-          sx={{ fontFamily: "Mono Bold", color: "#fff", fontSize: "20px" }}
+          sx={{ color: "#fff", fontSize: "20px" }}
         />
       </LineName>
     </HeaderContainer>
