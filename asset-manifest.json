@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/resume/static/css/main.b5e931b6.css",
-    "main.js": "/resume/static/js/main.fd159ff4.js",
+    "main.js": "/resume/static/js/main.b2176fa5.js",
     "static/js/787.7c4fc8d6.chunk.js": "/resume/static/js/787.7c4fc8d6.chunk.js",
+    "static/media/bk.png": "/resume/static/media/bk.31ac47fbb31cfc9588ed.png",
     "static/media/OverpassMono-SemiBold.ttf": "/resume/static/media/OverpassMono-SemiBold.f20c8daafc3a6f26334d.ttf",
     "static/media/OverpassMono-Bold.ttf": "/resume/static/media/OverpassMono-Bold.9b086279a5cfd96b2dbb.ttf",
     "static/media/timo.jpg": "/resume/static/media/timo.7cf1a2999500719b4551.jpg",
     "index.html": "/resume/index.html",
     "main.b5e931b6.css.map": "/resume/static/css/main.b5e931b6.css.map",
-    "main.fd159ff4.js.map": "/resume/static/js/main.fd159ff4.js.map",
+    "main.b2176fa5.js.map": "/resume/static/js/main.b2176fa5.js.map",
     "787.7c4fc8d6.chunk.js.map": "/resume/static/js/787.7c4fc8d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5e931b6.css",
-    "static/js/main.fd159ff4.js"
+    "static/js/main.b2176fa5.js"
   ]
 }
