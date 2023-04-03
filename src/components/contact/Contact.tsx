@@ -34,13 +34,14 @@ const Typo = styled(Typography)(() => ({
   color: "#fff",
   display: "flex",
   alignItems: "center",
+  fontFamily: "Mono Semi" 
 }));
 
 const Contact: React.FC = () => {
   return (
     <ContactContainer elevation={6}>
       <Stack spacing={2} padding={2} sx={{position: "relative"}}>
-        <HeaderContact variant="h4" sx={{ color: "#fff" }}>
+        <HeaderContact variant="h4" sx={{ color: "#fff",  fontFamily: "Mono Bold"  }}>
           Contact
         </HeaderContact>
       </Stack>

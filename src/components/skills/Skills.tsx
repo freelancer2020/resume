@@ -13,6 +13,7 @@ const SkillsContainer = styled(Paper)(() => ({
 
 const SkillsHeader = styled(Typography)(() => ({
   color: "#fff",
+  fontFamily: "Mono Bold",
   "&:before": {
     position: "absolute",
     content: '""',

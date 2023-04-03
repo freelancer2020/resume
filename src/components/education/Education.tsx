@@ -28,13 +28,17 @@ const Typo = styled(Typography)(() => ({
   color: "#fff",
   display: "flex",
   alignItems: "center",
+  fontFamily: "Mono Semi",
 }));
 
 const Education: React.FC = () => {
   return (
     <EducationContainer elevation={6}>
       <Stack spacing={2} padding={2} sx={{ position: "relative" }}>
-        <EducationHeader variant="h4" sx={{ color: "#fff" }}>
+        <EducationHeader
+          variant="h4"
+          sx={{ color: "#fff", fontFamily: "Mono Bold" }}
+        >
           Education
         </EducationHeader>
       </Stack>
@@ -42,7 +46,7 @@ const Education: React.FC = () => {
       <Stack spacing={2} padding={2}>
         <Typo>
           {" "}
-          <School sx={{marginRight: ".5rem"}} />
+          <School sx={{ marginRight: ".5rem" }} />
           Bachelor's degree in computer science
         </Typo>
       </Stack>

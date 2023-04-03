@@ -21,6 +21,7 @@ const MetaData = styled(Stack)(() => ({
 
 const Typo = styled(Typography)(() => ({
   color: "#fff",
+  fontFamily: "Mono Semi"
 }));
 
 interface ExperienceProps {

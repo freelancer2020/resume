@@ -37,7 +37,10 @@ const Experiences: React.FC = () => {
   return (
     <ExperiencesContainer elevation={6}>
       <Stack spacing={2} padding={2} sx={{ position: "relative" }}>
-        <ExperiencesHeader variant="h4" sx={{ color: "#fff" }}>
+        <ExperiencesHeader
+          variant="h4"
+          sx={{ color: "#fff", fontFamily: "Mono Bold" }}
+        >
           Experiences
         </ExperiencesHeader>
       </Stack>

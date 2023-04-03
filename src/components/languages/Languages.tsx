@@ -29,13 +29,17 @@ const Typo = styled(Typography)(() => ({
   color: "#fff",
   display: "flex",
   alignItems: "center",
+  fontFamily: "Mono Semi",
 }));
 
 const Languages: React.FC = () => {
   return (
     <LanguagesContainer elevation={6}>
       <Stack spacing={2} padding={2} sx={{ position: "relative" }}>
-        <LanguagesHeader variant="h4" sx={{ color: "#fff" }}>
+        <LanguagesHeader
+          variant="h4"
+          sx={{ color: "#fff", fontFamily: "Mono Bold" }}
+        >
           Languages
         </LanguagesHeader>
       </Stack>

@@ -70,7 +70,7 @@ const Header: React.FC = () => {
         <Typography
           variant="body1"
           children="Mostafa Mohamed"
-          sx={{ color: "#fff", fontSize: "20px" }}
+          sx={{ color: "#fff", fontSize: "20px", fontFamily: "Mono Semi" }}
         />
       </LineName>
     </HeaderContainer>
