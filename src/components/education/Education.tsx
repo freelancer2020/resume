@@ -2,7 +2,7 @@ import { Stack, Typography, Paper } from "@mui/material";
 import { styled } from "@mui/system";
 import { School } from "@mui/icons-material";
 const EducationContainer = styled(Paper)(() => ({
-  width: "48rem",
+  width: "25rem",
   hegiht: "10rem",
   background: "linear-gradient(to right, #3f4c6b, #606c88)",
   borderRadius: "5px",
@@ -13,7 +13,7 @@ const EducationHeader = styled(Typography)(() => ({
   "&:before": {
     position: "absolute",
     content: '""',
-    left: "6%",
+    left: "12%",
     bottom: "30",
     width: "80px",
     height: "14px",
@@ -47,8 +47,11 @@ const Education: React.FC = () => {
         <Typo>
           {" "}
           <School sx={{ marginRight: ".5rem" }} />
-          Bachelor's degree in computer science
+          Bachelor's degree in computer science 
         </Typo>
+        <Typography variant="body1" sx={{ color: "lightgray" }}>
+          2009 Cairo university
+        </Typography>
       </Stack>
     </EducationContainer>
   );

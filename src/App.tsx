@@ -1,15 +1,25 @@
 import React from "react";
+import { styled } from "@mui/system";
 import { Container } from "@mui/material";
 
 import "./App.css";
+import bk from "./assets/bk.png";
 
 import MacroLayout from "./layouts/macro-layout/MacroLayout";
 
+const AppContainer = styled(Container)(() => ({
+  background: `url(${bk})`,
+  backgroundSize: "cover",
+  backgroundRepeat: "no-repeat",
+  backgroundPosition: "center",
+  backgroundAttachment: "fixed"
+}));
+
 const App: React.FC = () => {
   return (
-    <Container disableGutters maxWidth="lg">
+    <AppContainer disableGutters maxWidth="lg">
       <MacroLayout />
-    </Container>
+    </AppContainer>
   );
 };
 
