@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Front-End Developer",
+    "company": "EY - Full-time",
+    "time": "Feb 2022 - Present",
+    "src": "https://www.scottishfinancialnews.com/uploads/EY%20logo.png",
+    "brand": "EY",
+    "analyst": false,
+    "end": false
+  },
+  {
+    "title": "Front-End Developer",
+    "company": "Accenture - Full-time",
+    "time": "Jan 2019 - Mar 2022",
+    "src": "https://logos-world.net/wp-content/uploads/2020/07/Accenture-Logo.png",
+    "brand": "Accenture",
+    "analyst": false,
+    "end": false
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Accenture - Full-time",
+    "time": "Dec 2015 - Jan 2019",
+    "src": "https://logos-world.net/wp-content/uploads/2020/07/Accenture-Logo.png",
+    "brand": "Accenture",
+    "analyst": true,
+    "end": true
+  }
+]

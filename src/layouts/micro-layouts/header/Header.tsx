@@ -55,7 +55,7 @@ const Header: React.FC = () => {
       <Bio>
         <Typography
           variant="body1"
-          sx={{ color: "#fff", fontSize: "18px" }}
+          sx={{ color: "#fff", fontSize: "16px", fontFamily: "Mono Semi" }}
         >
           Innovative, creative and skilled Front-End developer, possess a tech
           degree in Front-End Development and have 5 years of experience of

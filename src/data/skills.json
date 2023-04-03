@@ -24,7 +24,7 @@
     "category": "Programming"
   },
   {
-    "name": "JavaScript Liquid (Shopify)",
+    "name": "Shopify",
     "media": "https://outviocmsassets.s3.eu-central-1.amazonaws.com/ckyyctkm000057b9ge2hde98e.jpg",
     "content": "",
     "category": "Programming"
@@ -36,13 +36,13 @@
     "category": ""
   },
   {
-    "name": "React Redux",
+    "name": " Redux",
     "media": "https://daqxzxzy8xq3u.cloudfront.net/wp-content/uploads/2019/04/21032431/redux-cover-imgage-1024x768.jpg",
     "content": "",
     "category": ""
   },
   {
-    "name": "Redux ToolKit",
+    "name": " ToolKit",
     "media": "https://daqxzxzy8xq3u.cloudfront.net/wp-content/uploads/2019/04/21032431/redux-cover-imgage-1024x768.jpg",
     "content": "",
     "category": ""
@@ -72,13 +72,13 @@
     "category": ""
   },
   {
-    "name": "React Router ",
+    "name": " Router ",
     "media": "https://www.loginradius.com/blog/static/a53096b6796dd3d1e3f3df8bc77a6689/03979/index.png",
     "content": "",
     "category": ""
   },
   {
-    "name": "React Testing",
+    "name": "Jest",
     "media": "https://diogorodrigues.dev/assets/img/blog/automating-ui-tests-with-jest-and-react-testing-library.jpg",
     "content": "",
     "category": ""

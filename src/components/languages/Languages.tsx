@@ -34,7 +34,7 @@ const Typo = styled(Typography)(() => ({
 const Languages: React.FC = () => {
   return (
     <LanguagesContainer elevation={6}>
-      <Stack spacing={2} padding={2} sx={{position: "relative"}}>
+      <Stack spacing={2} padding={2} sx={{ position: "relative" }}>
         <LanguagesHeader variant="h4" sx={{ color: "#fff" }}>
           Languages
         </LanguagesHeader>
@@ -43,14 +43,14 @@ const Languages: React.FC = () => {
       <Stack spacing={2} padding={2}>
         <Typo variant="body2">
           {" "}
-          <Language sx={{ marginRight: ".5rem" }} /> English
+          <Language sx={{ marginRight: ".5rem" }} /> Arabic - Native
         </Typo>
         <Typo variant="body2">
-          <Language sx={{ marginRight: ".5rem" }} /> Arabic
+          <Language sx={{ marginRight: ".5rem" }} /> English - C2
         </Typo>
         <Typo variant="body2">
           <Language sx={{ marginRight: ".5rem" }} />
-          Polish
+          Polish - B1
         </Typo>
       </Stack>
     </LanguagesContainer>

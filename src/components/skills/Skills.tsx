@@ -1,6 +1,5 @@
-import { Stack, Typography, Paper, Box } from "@mui/material";
+import { Stack, Typography, Paper } from "@mui/material";
 import { styled } from "@mui/system";
-import { Language } from "@mui/icons-material";
 import SkillsCard from "../skills-card/SkillsCard";
 
 import cards from "../../data/skills.json";
@@ -28,16 +27,16 @@ const SkillsHeader = styled(Typography)(() => ({
   },
 }));
 
+const Container = styled(Stack)(() => ({
+  display: "flex",
+  flexWrap: "wrap",
+  justifyContent: "start",
+}));
+
 const Typo = styled(Typography)(() => ({
   color: "#fff",
   display: "flex",
   alignItems: "center",
-}));
-
-const Container = styled(Stack)(() => ({
-  display: "flex",
-  flexWrap: "wrap",
-  justifyContent: "start"
 }));
 
 const Skills: React.FC = () => {

@@ -4,11 +4,13 @@ import { styled } from "@mui/system";
 import Contact from "../../../components/contact/Contact";
 import Languages from "../../../components/languages/Languages";
 import Skills from "../../../components/skills/Skills";
+import Education from "../../../components/education/Education";
+import Experiences from "../../../components/experiences/Experiences";
 
 const SectionContainer = styled(Box)(() => ({
   height: "20rem",
-  marginTop: "4rem",
-  display: "flex"
+  marginTop: "2rem",
+  display: "flex",
 }));
 
 const SectionLeft = styled(Stack)(() => ({
@@ -23,7 +25,9 @@ const Section: React.FC = () => {
         <Contact />
         <Languages />
       </SectionLeft>
-      <Stack>
+      <Stack spacing={2}>
+        <Education />
+        <Experiences />
         <Skills />
       </Stack>
     </SectionContainer>
