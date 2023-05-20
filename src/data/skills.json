@@ -24,17 +24,24 @@
     "category": "Programming"
   },
   {
-    "name": "Shopify",
-    "media": "https://outviocmsassets.s3.eu-central-1.amazonaws.com/ckyyctkm000057b9ge2hde98e.jpg",
-    "content": "",
-    "category": "Programming"
-  },
-  {
     "name": "ReactJS",
     "media": "https://repository-images.githubusercontent.com/410214337/070f2aba-d9d6-4699-b887-9a0f29015b1b",
     "content": "",
     "category": ""
   },
+  {
+    "name": "Angular",
+    "media": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1275957/retina_1708x683_cover-top-18-most-common-angularjs-developer-mistakes-41f9ad303a51db70e4a5204e101e7414.png",
+    "content": "",
+    "category": ""
+  },
+  {
+    "name": "Shopify",
+    "media": "https://outviocmsassets.s3.eu-central-1.amazonaws.com/ckyyctkm000057b9ge2hde98e.jpg",
+    "content": "",
+    "category": "Programming"
+  },
+
   {
     "name": " Redux",
     "media": "https://daqxzxzy8xq3u.cloudfront.net/wp-content/uploads/2019/04/21032431/redux-cover-imgage-1024x768.jpg",

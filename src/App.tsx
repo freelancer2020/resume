@@ -3,12 +3,12 @@ import { styled } from "@mui/system";
 import { Container } from "@mui/material";
 
 import "./App.css";
-import bk from "./assets/bk.png";
+import bk from "./assets/bk.webp";
 
 import MacroLayout from "./layouts/macro-layout/MacroLayout";
 
 const AppContainer = styled(Container)(() => ({
-  background: `url(${bk})`,
+  // background: `url(${bk})`,
   backgroundSize: "cover",
   backgroundRepeat: "no-repeat",
   backgroundPosition: "center",
